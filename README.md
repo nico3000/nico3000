@@ -1,6 +1,9 @@
 ### Hi there 🖖
 
-🌈|#IDIC
+🏳️‍🌈🏳️‍⚧️ [#IDIC](https://memory-alpha.fandom.com/wiki/IDIC)
+
+[![nico3000's GitHub stats](https://github-readme-stats.vercel.app/api?username=nico3000&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nico3000&layout=compact&theme=merko)
 
 <!--
 **nico3000/nico3000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
